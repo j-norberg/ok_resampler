@@ -78,7 +78,7 @@ public:
 
 
 // mono
-// Instantiate these classes with an "down-struct" like "down2x_4"
+// Instantiate these classes with an "down-struct" like "dn2x_0008"
 
 template< typename DownClass >
 class Downsampler2x

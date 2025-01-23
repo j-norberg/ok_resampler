@@ -1,6 +1,6 @@
 // Copyright (c) 2024 Nils Jonas Norberg
 
-// Instantiate these classes with an "up-struct" like "up2x_4"
+// Instantiate these classes with an "up-struct" like "up2x_0008"
 
 // mono
 template<
